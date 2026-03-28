@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrbitA1</string>
+    <string name="orbit">Orbit</string>
+    <string name="enter_time_of_day">Enter time of day</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="reset">Reset</string>
+    <string name="social_spark_suggestion">Social spark suggestion</string>
+</resources>
